@@ -1,0 +1,4 @@
+Iteration	car	pt	walk
+0	0	76	11
+1	4	72	10
+2	8	66	10

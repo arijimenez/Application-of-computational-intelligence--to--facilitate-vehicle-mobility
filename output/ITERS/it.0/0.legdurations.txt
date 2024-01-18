@@ -1,0 +1,24 @@
+pattern	0+	5+	10+	15+	20+	25+	30+	35+	40+	45+	50+	55+	60+
+h5---pt interaction	0	0	0	0	1	0	0	0	0	0	0	0	0
+h5---work7.0-8.0	0	0	1	0	0	0	0	0	0	0	0	0	0
+h6---pt interaction	1	0	0	0	0	0	0	0	0	0	0	0	0
+h7---pt interaction	4	3	0	0	0	0	0	0	0	0	0	0	0
+personal7.0-2.0---pt interaction	0	1	0	0	0	0	0	0	0	0	0	0	0
+personal8.0-4.0---pt interaction	1	0	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---h5	0	2	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---h6	1	0	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---h7	5	2	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---personal7.0-2.0	0	1	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---personal8.0-4.0	1	0	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---pt interaction	19	9	6	3	1	0	0	0	1	0	0	0	0
+pt interaction---shopping8.5-6.0	2	0	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---work7.5-8.0	1	1	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---work8.0-9.0	1	0	0	0	0	0	0	0	0	0	0	0	0
+pt interaction---work8.5-8.0	0	1	1	0	0	0	0	0	0	0	0	0	0
+shopping8.5-6.0---pt interaction	2	0	0	0	0	0	0	0	0	0	0	0	0
+work7.0-8.0---pt interaction	1	0	0	0	0	0	0	0	0	0	0	0	0
+work7.5-8.0---pt interaction	2	0	0	0	0	0	0	0	0	0	0	0	0
+work8.0-9.0---pt interaction	1	0	0	0	0	0	0	0	0	0	0	0	0
+work8.5-8.0---pt interaction	0	0	0	2	0	0	0	0	0	0	0	0	0
+
+average leg duration: 398.3333333333333 seconds = 00:06:38

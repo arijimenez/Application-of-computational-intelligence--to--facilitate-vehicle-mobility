@@ -1,0 +1,19 @@
+2023-09-22T11:50:34,812  WARN PrepareForSimImpl:229 'usePersonIdForMissingVehicleId' is deprecated. It will be removed soon.
+2023-09-22T11:50:35,208  WARN RandomizingTimeDistanceTravelDisutilityFactory:113 There will be no routing randomness. The randomization of the travel disutility requires the monetary distance rate to be different than zero. Continuing anyway.
+2023-09-22T11:50:35,209  WARN RandomizingTimeDistanceTravelDisutilityFactory:118 There will be no routing randomness. The randomization of the travel disutility requires the travel time cost rate to be different than zero. Continuing anyway.
+2023-09-22T11:50:37,494  WARN QueueWithBuffer:500 Link pt_100_42799 too small: enlarge storage capacity from: 49.05802988124085 Vehicles to: 1021.9400849635985 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_101_42806 too small: enlarge storage capacity from: 53.490559882100115 Vehicles to: 85.71347888799984 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_102_2084 too small: enlarge storage capacity from: 32.97462403484886 Vehicles to: 686.9026369259453 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_104_23321 too small: enlarge storage capacity from: 27.94825721117139 Vehicles to: 29.1098566515107 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_108_38495 too small: enlarge storage capacity from: 59.597227190007615 Vehicles to: 95.49882606937277 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_11817_26728 too small: enlarge storage capacity from: 95.48161679266966 Vehicles to: 284.14306140175705 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_11872_11879 too small: enlarge storage capacity from: 72.13664050436351 Vehicles to: 1502.6963925065224 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_11878_11873 too small: enlarge storage capacity from: 72.13664050436351 Vehicles to: 1502.6963925065224 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_11879_4496 too small: enlarge storage capacity from: 39.35705440442567 Vehicles to: 819.8566395621922 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,495  WARN QueueWithBuffer:500 Link pt_11881_4495 too small: enlarge storage capacity from: 28.26359066896402 Vehicles to: 588.7659231228567 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,496  WARN QueueWithBuffer:500 Link pt_11883_97 too small: enlarge storage capacity from: 24.743393103071465 Vehicles to: 515.4358075783574 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2023-09-22T11:50:37,496  WARN QueueWithBuffer:503 Additional warnings of this type are suppressed.
+2023-09-22T11:50:56,981  WARN TimeAllocationMutatorModule:128 Please be aware that durations of activities now can mutate freely and possibly become negative.This might be a problem if you have 
+a) short activities that are only provided with duration and not with endtime  AND
+b) agents with only one or two initial plans.
+This can have impact on scoring and maybe even on qsim execution. It is recommended to set affectingDuration=false for such set up.
